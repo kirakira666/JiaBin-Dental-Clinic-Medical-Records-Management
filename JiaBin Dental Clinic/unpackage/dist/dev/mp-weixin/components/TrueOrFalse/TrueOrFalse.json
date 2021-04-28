@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-card": "/uview-ui/components/u-card/u-card",
+    "u-radio-group": "/uview-ui/components/u-radio-group/u-radio-group",
+    "u-radio": "/uview-ui/components/u-radio/u-radio"
+  }
+}

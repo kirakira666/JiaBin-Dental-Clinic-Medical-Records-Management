@@ -1,0 +1,6 @@
+
+.u-cell-icon {
+  height: 40rpx;
+  width: 40rpx;
+}
+

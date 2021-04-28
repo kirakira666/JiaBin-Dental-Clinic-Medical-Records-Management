@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "wechat-data": "/components/WechatData/WechatData",
+    "tea-tabbar": "/components/TeaTabbar/TeaTabbar"
+  }
+}

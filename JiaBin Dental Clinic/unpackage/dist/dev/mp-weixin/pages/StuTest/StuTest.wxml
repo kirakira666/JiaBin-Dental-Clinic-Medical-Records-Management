@@ -1,0 +1,1 @@
+<view><u-subsection vue-id="1fd570f2-1" current="{{Inv}}" list="{{['普通作业','考试','相册']}}" data-event-opts="{{[['^change',[['modeChange']]]]}}" bind:change="__e" bind:__l="__l"></u-subsection><view><text>进行中</text><stu-work vue-id="1fd570f2-2" bind:__l="__l"></stu-work><text>已截止</text><stu-work vue-id="1fd570f2-3" bind:__l="__l"></stu-work></view></view>

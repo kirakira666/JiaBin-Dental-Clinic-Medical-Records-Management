@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "stu-work": "/components/StuWork/StuWork"
+  }
+}

@@ -1,0 +1,19 @@
+
+.workdata.data-v-64c5b464 {
+  padding: 0rpx;
+  border: 1rpx solid #FFFFFF;
+  font-size: 30rpx;
+}
+.avatar.data-v-64c5b464 {
+  display: inline;
+}
+.txt.data-v-64c5b464 {
+  width: 1000rpx;
+  margin: 40rpx;
+  display: inline;
+}
+.navi.data-v-64c5b464 {
+  margin-left: 40rpx;
+  display: inline;
+}
+

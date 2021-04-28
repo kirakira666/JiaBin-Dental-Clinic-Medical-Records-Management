@@ -1,0 +1,1 @@
+<view><u-upload class="vue-ref" vue-id="a0f2d3fc-1" max-count="6" action="{{action}}" file-list="{{fileList}}" data-ref="uUpload" data-event-opts="{{[['^onUploaded',[['onUploaded']]],['^onRemove',[['onRemove']]]]}}" bind:onUploaded="__e" bind:onRemove="__e" bind:__l="__l"></u-upload><image src mode></image></view>

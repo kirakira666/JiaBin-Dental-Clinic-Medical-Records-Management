@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/DoctorInput/DoctorInput",
+    "pages/NewClass/NewClass",
+    "pages/AddFeedback/AddFeedback",
+    "pages/StuClassData/StuClassData",
+    "pages/CourseList/CourseList",
+    "pages/StuClassList/StuClassList",
+    "pages/ChooseIdentity/ChooseIdentity",
+    "pages/Swiper/Swiper",
+    "pages/index/index",
+    "pages/SystemQuestion/SystemQuestion",
+    "pages/QuestionBank/QuestionBank",
+    "pages/DataCount/DataCount",
+    "pages/Message/Message",
+    "pages/BuiltQuestion/BuiltQuestion",
+    "pages/StuCenter/StuCenter",
+    "pages/Center/Center",
+    "pages/TeaClassList/TeaClassList",
+    
+    "pages/InputClassCode/InputClassCode",
+    "pages/NewClassConfirm/NewClassConfirm",
+    "pages/Code/Code",
+    "pages/CommonWork/CommonWork",
+    "pages/StuTest/StuTest",
+    "pages/ClassPhoto/ClassPhoto",
+    "pages/TeaClassData/TeaClassData",
+    "pages/NewWork/NewWork",
+    "pages/TeaStuAllWork/TeaStuAllWork",
+    "pages/TeaStuSingleWork/TeaStuSingleWork",
+    "pages/DoWork/DoWork",
+    "pages/SingleWorkAllStudent/SingleWorkAllStudent"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#007AFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap77.json"
+}

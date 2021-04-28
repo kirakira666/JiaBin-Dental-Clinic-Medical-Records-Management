@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "u-subsection": "/uview-ui/components/u-subsection/u-subsection",
+    "common-work": "/components/CommonWork/CommonWork",
+    "stu-test": "/components/StuTest/StuTest",
+    "class-photo": "/components/ClassPhoto/ClassPhoto"
+  }
+}

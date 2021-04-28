@@ -1,0 +1,13 @@
+{
+  "usingComponents": {
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-form": "/uview-ui/components/u-form/u-form",
+    "u-form-item": "/uview-ui/components/u-form-item/u-form-item",
+    "u-input": "/uview-ui/components/u-input/u-input",
+    "u-card": "/uview-ui/components/u-card/u-card",
+    "single-choose": "/components/SingleChoose/SingleChoose",
+    "multi-choose": "/components/MultiChoose/MultiChoose",
+    "true-or-false": "/components/TrueOrFalse/TrueOrFalse",
+    "quick-redirect": "/components/QuickRedirect/QuickRedirect"
+  }
+}

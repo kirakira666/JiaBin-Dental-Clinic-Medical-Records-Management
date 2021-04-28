@@ -1,0 +1,15 @@
+
+.StuClass.data-v-435a0684 {
+  border: 1rpx solid #000000;
+  font-size: 30rpx;
+}
+.txt.data-v-435a0684 {
+  margin: 10rpx;
+}
+.btn.data-v-435a0684 {
+  display: inline-block;
+  margin: 40rpx;
+  font-size: 30rpx;
+}
+
+

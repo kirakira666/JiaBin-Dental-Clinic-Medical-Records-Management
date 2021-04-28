@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-card": "/uview-ui/components/u-card/u-card",
+    "u-checkbox-group": "/uview-ui/components/u-checkbox-group/u-checkbox-group",
+    "u-checkbox": "/uview-ui/components/u-checkbox/u-checkbox"
+  }
+}

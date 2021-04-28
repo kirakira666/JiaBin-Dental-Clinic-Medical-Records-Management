@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-upload": "/uview-ui/components/u-upload/u-upload"
+  }
+}

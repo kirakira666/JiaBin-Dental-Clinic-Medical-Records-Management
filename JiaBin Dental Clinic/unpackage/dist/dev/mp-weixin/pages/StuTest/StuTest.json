@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "u-subsection": "/uview-ui/components/u-subsection/u-subsection",
+    "stu-work": "/components/StuWork/StuWork"
+  }
+}

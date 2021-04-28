@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-swiper": "/uview-ui/components/u-swiper/u-swiper",
+    "u-modal": "/uview-ui/components/u-modal/u-modal"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-card": "/uview-ui/components/u-card/u-card"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "single-choose": "/components/SingleChoose/SingleChoose",
+    "multi-choose": "/components/MultiChoose/MultiChoose",
+    "true-or-false": "/components/TrueOrFalse/TrueOrFalse"
+  }
+}

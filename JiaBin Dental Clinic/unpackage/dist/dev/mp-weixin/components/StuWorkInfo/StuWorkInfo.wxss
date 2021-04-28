@@ -1,0 +1,16 @@
+
+.info.data-v-264c53a8 {
+  padding: 0rpx;
+  border: 1rpx solid #FFFFFF;
+  font-size: 30rpx;
+}
+.txt.data-v-264c53a8 {
+  display: inline;
+  margin: 0rpx 35rpx;
+}
+.btn.data-v-264c53a8 {
+  display: inline;
+  margin-left: 35rpx;
+  font-size: 30rpx;
+}
+

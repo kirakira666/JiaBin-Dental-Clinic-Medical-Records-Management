@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "stu-class": "/components/StuClass/StuClass",
+    "stu-tabbar": "/components/StuTabbar/StuTabbar"
+  }
+}

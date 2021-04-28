@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "u-cell-group": "/uview-ui/components/u-cell-group/u-cell-group",
+    "u-cell-item": "/uview-ui/components/u-cell-item/u-cell-item",
+    "wechat-data": "/components/WechatData/WechatData",
+    "work-data": "/components/WorkData/WorkData",
+    "problem-list": "/components/ProblemList/ProblemList"
+  }
+}

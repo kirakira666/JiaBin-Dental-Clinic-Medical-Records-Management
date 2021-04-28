@@ -1,0 +1,7 @@
+
+.code {
+  text-align: center;
+  margin: auto;
+  margin-top: 200rpx;
+}
+

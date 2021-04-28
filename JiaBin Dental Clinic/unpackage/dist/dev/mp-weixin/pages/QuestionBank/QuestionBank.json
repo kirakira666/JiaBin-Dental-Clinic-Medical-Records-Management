@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "u-subsection": "/uview-ui/components/u-subsection/u-subsection",
+    "course-list": "/components/CourseList/CourseList"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-subsection": "/uview-ui/components/u-subsection/u-subsection",
+    "members": "/components/Members/Members",
+    "data-count": "/components/DataCount/DataCount",
+    "tea-all-work": "/components/TeaAllWork/TeaAllWork",
+    "class-photo": "/components/ClassPhoto/ClassPhoto"
+  }
+}

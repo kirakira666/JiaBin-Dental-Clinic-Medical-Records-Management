@@ -1,0 +1,26 @@
+
+.stu-tabbar.data-v-034837ea {
+  position: fixed;
+  width: 100%;
+  border: solid 1rpx #2C405A;
+  bottom: 0px;
+  height: 140rpx;
+  z-index: 999;
+  background-color: white;
+}
+.each-tab.data-v-034837ea {
+  width: 50%;
+  text-align: center;
+  display: inline-block;
+}
+.tab-text.data-v-034837ea {
+  color: #000000;
+}
+.selected-tab-text.data-v-034837ea {
+  color: #18B566;
+}
+.image.data-v-034837ea {
+  width: 50rpx;
+  height: 50rpx;
+}
+
